@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+/home/woodsonca/Desktop/CodeRepository/.metadata/.plugins/org.eclipse.jdt.core
-3991271179.index
