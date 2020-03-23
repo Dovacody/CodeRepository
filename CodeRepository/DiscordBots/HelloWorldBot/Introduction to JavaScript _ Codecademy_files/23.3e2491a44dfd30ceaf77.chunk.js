@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[23],{"5pk2":function(o){o.exports=JSON.parse('{"forgotPassword":"I forgot my password","logIn":"Log in","oauthRegister":"Or, use another account:","oauthLogin":"Log In with Another Account"}')}}]);
+//# sourceMappingURL=23.3e2491a44dfd30ceaf77.chunk.js.map
